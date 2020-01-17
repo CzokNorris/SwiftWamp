@@ -3,7 +3,7 @@ platform :ios, '8.0'
 def pods
   inherit! :search_paths
   pod 'SwiftyJSON'
-  pod 'Starscream'
+  pod 'Starscream' '~> 3.0.4'
   pod 'CryptoSwift'
   pod 'SwiftWebSocket'
 end
