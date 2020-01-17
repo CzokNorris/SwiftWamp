@@ -33,7 +33,7 @@ the WAMP WebSocket subprotocol implemented purely in Swift
   s.source_files = 'SwiftWamp/**/*'
 
   s.dependency 'SwiftyJSON'
-  s.dependency 'Starscream' '~> 3.0.5'
+  s.dependency 'Starscream' '~> 3.1.0'
   s.dependency 'CryptoSwift'
   s.dependency 'SwiftWebSocket'
 end
